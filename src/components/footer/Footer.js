@@ -15,7 +15,7 @@ const Footer = () => {
             <FaTwitter />
           </span>
           <span className="bannerIcon">
-            <FaLinkedinIn />
+           <a href='https://www.linkedin.com/in/ram-awachar-56662a269/'> <FaLinkedinIn /></a>
           </span>
         </div>
       </div>
@@ -36,12 +36,7 @@ const Footer = () => {
               <span className="w-full h-[1px] bg-designColor inline-flex absolute left-0 -bottom-1 -translate-x-[100%] group-hover:translate-x-0 transition-transform duration-300"></span>
             </span>
           </li>
-          <li>
-            <span className="w-full text-lg relative hover:text-designColor duration-300 group cursor-pointer">
-              Services
-              <span className="w-full h-[1px] bg-designColor inline-flex absolute left-0 -bottom-1 -translate-x-[100%] group-hover:translate-x-0 transition-transform duration-300"></span>
-            </span>
-          </li>
+
           <li>
             <span className="w-full text-lg relative hover:text-designColor duration-300 group cursor-pointer">
               Blog
@@ -79,12 +74,7 @@ const Footer = () => {
               <span className="w-full h-[1px] bg-designColor inline-flex absolute left-0 -bottom-1 -translate-x-[100%] group-hover:translate-x-0 transition-transform duration-300"></span>
             </span>
           </li>
-          <li>
-            <span className="w-full text-lg relative hover:text-designColor duration-300 group cursor-pointer">
-              Pricing
-              <span className="w-full h-[1px] bg-designColor inline-flex absolute left-0 -bottom-1 -translate-x-[100%] group-hover:translate-x-0 transition-transform duration-300"></span>
-            </span>
-          </li>
+          
           <li>
             <span className="w-full text-lg relative hover:text-designColor duration-300 group cursor-pointer">
               Over Right
@@ -116,12 +106,7 @@ const Footer = () => {
               <span className="w-full h-[1px] bg-designColor inline-flex absolute left-0 -bottom-1 -translate-x-[100%] group-hover:translate-x-0 transition-transform duration-300"></span>
             </span>
           </li>
-          <li>
-            <span className="w-full text-lg relative hover:text-designColor duration-300 group cursor-pointer">
-              Support
-              <span className="w-full h-[1px] bg-designColor inline-flex absolute left-0 -bottom-1 -translate-x-[100%] group-hover:translate-x-0 transition-transform duration-300"></span>
-            </span>
-          </li>
+          
           <li>
             <span className="w-full text-lg relative hover:text-designColor duration-300 group cursor-pointer">
               Open Source

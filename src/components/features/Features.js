@@ -13,40 +13,23 @@ const Features = () => {
     >
       <Title title="Features" des="What I Do" />
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-20">
-        <Card
-          title="Business Stratagy"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
-         
-        />
+       
         <Card
           title="App Development"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          des="Developed front-end user interfaces for several complex web applications with HTML, CSS, and JavaScript.
+          •Utilized React frameworks to create interactive, responsive, and user-friendly web designs."
           icon={<AiFillAppstore />}
         />
         <Card
-          title="SEO Optimisation"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
-          icon={<SiProgress />}
-        />
-        <Card
-          title="Mobile Development"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
-          icon={<FaMobile />}
-        />
-        <Card
-          title="UX Design"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          title="UI/UX Design"
+          des="•Created custom UI components and implemented layouts using HTML5, CSS3, and JavaScript.
+          "
           icon={<SiAntdesign />}
         />
         <Card
           title="Hosting Websites"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          des="In these training i am deployed many projects.For hosting there is many platforms are available like netlify ,vercel etc
+          Hosting a website involves storing and serving website content from a server so that it can be accessed by users over the internet. "
           icon={<FaGlobe />}
         />
       </div>
