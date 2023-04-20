@@ -12,7 +12,7 @@ const Footer = () => {
             <FaFacebookF />
           </span>
           <span className="bannerIcon">
-            <FaTwitter />
+            <FaTwitter />   
           </span>
           <span className="bannerIcon">
            <a href='https://www.linkedin.com/in/ram-awachar-56662a269/'> <FaLinkedinIn /></a>
